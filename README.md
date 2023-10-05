@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 [An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764)
  [Hacktoberfest](https://www.holopin.io/hacktoberfest2023/userbadge/cln1qrucp30740fmlxx4w0p5i.)
  <a href ="holopin.io/@jibachhhmahto764"  height="30" width="40" target="blank"/></a>
- [An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764)
+ [An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](<a href ="https://holopin.me/jibachhhmahto764" height="30" width="40" target="blank"/></a>)](https://holopin.io/@jibachhhmahto764)
