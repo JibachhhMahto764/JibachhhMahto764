@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/https://www.instagram.com/jibachh.singh/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jibachh.singh/?hl=en" height="30" width="40" /></a>
 </p>
 <h1 aligh="left">My Achievements:</h1>
-[An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764)
- [Hacktoberfest](https://www.holopin.io/hacktoberfest2023/userbadge/cln1qrucp30740fmlxx4w0p5i.)
+[An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)]@jibachhhmahto764 was awarded this badge on 2023-09-27T12:47:54.985Z (UTC).
+
+The unique Badge ID is cln1qrucp30740fmlxx4w0p5i.
  <a href ="holopin.io/@jibachhhmahto764"  height="30" width="40" target="blank"/></a>
  [An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](<a href ="https://holopin.me/jibachhhmahto764" height="30" width="40" target=" blank"/></a>)](https://holopin.io/@jibachhhmahto764)
 @jibachhhmahto764 was awarded this badge on 2023-10-13T05:50:01.477Z (UTC).
