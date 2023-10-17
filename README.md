@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src='https://holopin.io/@jibachhhmahto764'  height = "30" width = "40" />
 </a>
 
-     ![Holopin](https://holopin.io/@jibachhhmahto764?style=flat-square)
+     ![Holopin](https://holopin.io/@jibachhhmahto764?style=plastic)
 
 
 
