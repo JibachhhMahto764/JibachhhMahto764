@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/https://www.instagram.com/jibachh.singh/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jibachh.singh/?hl=en" height="30" width="40" /></a>
 </p>
 <h1 aligh="left">My Achievements:</h1>
-<a href="https://www.holopin.io/@jibachhhmahto764#" target="blank"><img align="center" src="https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764" alt="check your holopin id "height="30" width="40" /></a>
+<a href="https://www.holopin.io/@jibachhhmahto764#" target="blank"><img align="center" src="https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764" alt="[![An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764)"height="30" width="40" /></a>
      
 
 
