@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 [An image of @jibachhhmahto764's Holopin badges,]
 
 <a href="https://www.holopin.io/@jibachhhmahto764#" target="blank"  rel="no-referrer"><img src="https://holopin.me/jibachhhmahto764" alt="badge" width="40" height="40"/> </a>
-<a href="(https://github.com/JibachhhMahto764/JibachhhMahto764/assets/84733181/c41861ad-c147-442e-baa3-d122e16b5c65/" target=_blank" rel="no-referrer"> <img src="https://github.com/JibachhhMahto764/JibachhhMahto764/assets/84733181/c41861ad-c147-442e-baa3-d122e16b5c65" alt="badge" width="40" height="40"/> </a>
-
 
  
  <h3 align="left">Languages and Tools:</h3>
