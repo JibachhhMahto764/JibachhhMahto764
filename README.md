@@ -32,8 +32,10 @@ Here are some ideas to get you started:
      
 </p>
 <h1 aligh="left">My Achievements:</h1>
-<a href="https://www.holopin.io/@jibachhhmahto764#" target="blank"><img align="center" src="https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764" alt="[![An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764)"height="30px" width="40px" /></a>
+[![<a href="https://www.holopin.io/@jibachhhmahto764#" target="blank"><img align="center" src="https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764" alt="[![An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764)"height="30px" width="40px" /></a>
 [An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile]
+
+<a href="https://www.holopin.io/@jibachhhmahto764#" target="blank"  rel="no-referrer"><img src="https://holopin.io/@jibachhhmahto764" alt="badge" width="40" height="40"/> </a>
 ![image](https://github.com/JibachhhMahto764/JibachhhMahto764/assets/84733181/c41861ad-c147-442e-baa3-d122e16b5c65)
 ![image](https://github.com/JibachhhMahto764/JibachhhMahto764/assets/84733181/bdf7924b-2a0d-420c-bf15-168fee42e189)
 ![image](https://github.com/JibachhhMahto764/JibachhhMahto764/assets/84733181/01221f3c-3a28-4682-b79d-7b580d6e73cc)
