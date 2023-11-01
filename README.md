@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 
 - 💬 Ask me about **html,css,javascript,react,node.js,**
-
 - 📫 How to reach me **jibachhmahato8@gmail.com**
+- ⚡ Fun fact **I'm a FullStack Developer, Tech Blogger, Cricketer, 10 Fingers-Fast Typist: 50 + WPM, Communicator and Community contributor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
