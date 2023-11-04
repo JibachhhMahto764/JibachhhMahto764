@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.holopin.io/@jibachhhmahto764#" target="blank"  rel="no-referrer"><img src="https://holopin.me/jibachhhmahto764" alt="badge" width="40" height="40"/> </a>
 
- 
+ [![An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764)
  <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
