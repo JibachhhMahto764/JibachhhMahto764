@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <a href="https://jibachhsingh.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jibachhsingh.hashnode.dev" height="30" width="40" /></a>
      
 </p>
-<h1 aligh="left">My Achievements:</h1>
-###
+<h1 aligh="left">#My Achievements:</h1>
+
 
  [![An image of @jibachhhmahto764's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jibachhhmahto764)](https://holopin.io/@jibachhhmahto764)
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">#Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazon web services logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circle logo"  />
   <img width="12" />
