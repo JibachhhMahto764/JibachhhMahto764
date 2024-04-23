@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&show_icons=true&locale=en&theme=radical" alt="JibachhhMahto764" width="420"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JibachhhMahto764&show_icons=true&locale=en&theme=radical" alt="JibachhhMahto764" width="420" />
+
 
 
 
