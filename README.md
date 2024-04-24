@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JibachhhMahto764&show_icons=true&locale=en&theme=radical" alt="JibachhhMahto764" height="358"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&show_icons=true&locale=en&theme=radical" alt="JibachhhMahto764" width="420"/>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=jibachhhMahato764&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
