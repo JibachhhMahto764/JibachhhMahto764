@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=highcontrast" alt="GitHub Streak" width="420"/></a>
 
-
+<!--
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JibachhMahto764&theme=blue-navy" alt="jibachh status" width = "420" /></a>
-
+-->
 
 
 
