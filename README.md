@@ -79,11 +79,11 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madjed-hue&show_icons=true&locale=en" alt="madjed-hue" /></p>
 -->
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FJibachhhMahto764&theme=highcontrast&hide_border=true&short_numbers=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <!--
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JibachhMahto764&theme=blue-navy" alt="jibachh status" width = "420" /></a>
 -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FJibachhhMahto764&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+
 
 
 
