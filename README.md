@@ -79,12 +79,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madjed-hue&show_icons=true&locale=en" alt="madjed-hue" /></p>
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JibachhhMahto764&show_icons=true&locale=en&theme=radical" alt="JibachhhMahto764" height="358"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&show_icons=true&locale=en&theme=radical" alt="JibachhhMahto764" width="420"/>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=highcontrast" alt="GitHub Streak" width="420"/></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FJibachhhMahto764&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 <!--
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JibachhMahto764&theme=blue-navy" alt="jibachh status" width = "420" /></a>
 -->
