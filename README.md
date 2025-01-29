@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=011800&center=true&vCenter=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+full+Stack+Development;With+Jibachh+singh%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
 
 <h1 align="center">Hi 👋, I'm Jibachh singh</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate fullstack developer and DevOps enthusiastic from Nepal</h3>
 
 
 - 💬 Ask me about **DevOps,Cloud,Linux,html,css,javascript,react,node.js,**
@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JibachhhMahto764&show_icons=true&locale=en&layout=compact" alt="madjed-hue" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JibachhhMahto764&show_icons=true&locale=en&layout=compact" alt="JibachhhMahto764" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&show_icons=true&locale=en" alt="madjed-hue" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&show_icons=true&locale=en&theme=dark" alt="JibachhhMahto764" /></p>
 
 
 
