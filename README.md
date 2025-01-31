@@ -76,10 +76,9 @@ Here are some ideas to get you started:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JibachhhMahto764&show_icons=true&locale=en&layout=compact&theme=dark" alt="JibachhhMahto764" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=dark&card_width=200" alt="GitHub Streak"  /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&show_icons=true&locale=en&theme=dark" alt="JibachhhMahto764" /></p>
-
-
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&show_icons=true&locale=en&theme=dark" alt="JibachhhMahto764" /></p>
 
 
 
