@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 -->
 <h1 aligh="left">#GitHub Stats:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"  width="450">
-<img  align="right" src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=dark&hide_border=true" alt="GitHub Streak"  width="450">
+<img  align="right" src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=dark&hide_border=true" alt="GitHub Streak"  width="300">
  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"  width="450">
     </p>
