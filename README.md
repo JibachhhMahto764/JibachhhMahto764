@@ -81,14 +81,13 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://streak-stats.demolab.com?user=JibachhhMahto764&theme=dark&hide_border=true)
 -->
-## GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"  width="440">
-<img  align="center" src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=dark&hide_border=true" alt="GitHub Streak"  width="400">
+<h1 aligh="left">#GitHub Stats:</h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"  width="450">
+<img  align="right" src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=dark&hide_border=true" alt="GitHub Streak"  width="450">
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"  width="450">
-    
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"  width="450">
+    </p>
+<p>
 <h1 aligh="left">#Scan Me Section:</h1>
 <!--
 ![frame](https://github.com/user-attachments/assets/630ecca6-6e99-444a-9274-4ae3576f1513)
@@ -101,9 +100,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/user-attachments/assets/8cb61482-52c0-429c-b250-52e5de763426" alt="QR Code 2" width="150" height="150">
  <img src="https://github.com/user-attachments/assets/217615cb-e798-45da-82a8-1bb03ad463b1" alt="QR Code 3" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/9aca9b4e-05a0-4cfb-a0c6-758c920bf0d1" alt="QR Code 4" width="150" height="150">
-
-
-
+</p>
 
 
 
