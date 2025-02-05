@@ -83,10 +83,11 @@ Here are some ideas to get you started:
 -->
 ## GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"  width="500">
+<img  align="center" src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=dark&hide_border=true" alt="GitHub Streak"  width="400">
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibachhhMahto764&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"  width="450">
     
-<img  align="center" src="https://streak-stats.demolab.com?user=JibachhhMahto764&theme=dark&hide_border=true" alt="GitHub Streak"  width="450">
- 
+
 
 <h1 aligh="left">#Scan Me Section:</h1>
 <!--
