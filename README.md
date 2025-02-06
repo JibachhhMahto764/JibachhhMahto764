@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack developer and DevOps enthusiastic from Nepal</h3>
 
 
-- 💬 Ask me about **DevOps,Cloud,Linux,html,css,javascript,react,node.js,**
+- 💬 Ask me about **DevOps,Cloud,Linux,html,css,javascript,react,node.js,Laravel**
 - 📫 How to reach me **jibachhmahato8@gmail.com**
  - 📝 I regularly write articles on [[https://jibachhsingh.hashnode.dev](https://jibachhsingh.hashnode.dev/)] 
-- ⚡ Fun fact **I'm a FullStack Developer, Tech Blogger, Cricketer, 10 Fingers-Fast Typist: 50 + WPM, Communicator and Community contributor**
+- ⚡ Fun fact **I'm a FullStack Developer And DevOps Engineer, Tech Blogger, Cricketer, 10 Fingers-Fast Typist: 50 + WPM, Communicator and Community contributor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
