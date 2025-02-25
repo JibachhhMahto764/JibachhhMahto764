@@ -108,10 +108,10 @@ Here are some ideas to get you started:
 ![Uploading qRlinkedin.png…]()
 -->
 
-<img src="https://github.com/user-attachments/assets/630ecca6-6e99-444a-9274-4ae3576f1513" alt="QR Code 1" width="150" height="150" align="left">
- <img src="https://github.com/user-attachments/assets/8cb61482-52c0-429c-b250-52e5de763426" alt="QR Code 2" width="150" height="150">
- <img src="https://github.com/user-attachments/assets/217615cb-e798-45da-82a8-1bb03ad463b1" alt="QR Code 3" width="150" height="150">
-<img src="https://github.com/user-attachments/assets/9aca9b4e-05a0-4cfb-a0c6-758c920bf0d1" alt="QR Code 4" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/630ecca6-6e99-444a-9274-4ae3576f1513" alt="QR Code 1" width="200" height="200" align="left">
+ <img src="https://github.com/user-attachments/assets/8cb61482-52c0-429c-b250-52e5de763426" alt="QR Code 2" width="200" height="200">
+ <img src="https://github.com/user-attachments/assets/217615cb-e798-45da-82a8-1bb03ad463b1" alt="QR Code 3" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/9aca9b4e-05a0-4cfb-a0c6-758c920bf0d1" alt="QR Code 4" width="200" height="200">
 </p>
 
 
