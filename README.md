@@ -39,11 +39,12 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack developer and DevOps enthusiastic from Nepal</h3>
 
 
-- 💬 Ask me about **DevOps,Cloud,Linux,html,css,javascript,react,node.js,Laravel**
+- 💬 Ask me about **DevOps, Cloud, Linux, HTML, CSS, javascript, React, Node.js, Laravel**
 - 📫 How to reach me **jibachhmahato8@gmail.com**
  - 📝 I regularly write articles on [[https://jibachhsingh.hashnode.dev](https://jibachhsingh.hashnode.dev/)] 
 - ⚡ Fun fact **I'm a FullStack Developer And DevOps Engineer, Tech Blogger, Cricketer, 10 Fingers-Fast Typist: 50 + WPM, Communicator and Community contributor**
-
+-🌱 I’m currently learning AWS CI/CD Pipeline which comprises CodeCommit, CodeBuild, CodeDeploy, CodePipeline, S3, EC2, Cloudwatch, IAM
+-👯 I’m looking to collaborate on DevOps Project
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jibachh-singh-7b1b5724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jibachh-singh-7b1b5724b/" height="30" width="40" /></a>
